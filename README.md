@@ -4,5 +4,6 @@ By applying my knowledge of motion sensing fields, this product idea deploys alg
 
 
 
-###CS585_Lab3.cpp is the only file that will be execuated
-####vid file contains all the pictures that are needed for the program
+###
+    CS585_Lab3.cpp is the only file that will be execuated
+    vid file contains all the pictures that are needed for the program
